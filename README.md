@@ -18,8 +18,8 @@
     5、tag添加、删除
   
 ## 项目启动：
-    1、需要安装mongdb，并启动mongdb的服务
-    2、进入项目  cd server下  执行node index；启动项目的server，提示Mongo connection successed，就可以正式使用
+    1、需要安装mongdb
+    2、server下  执行node index
     3、在项目下执行 npm run start可看
   
 ##  结构简介
