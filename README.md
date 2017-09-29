@@ -1,7 +1,11 @@
 # vue-blog
-=======
 
 > A Vue.js project
+
+# 技术栈
+> vue(vue+vuex+vue-router+vue-resource)
+> express
+> mongoose
 
 ## Build Setup
 
