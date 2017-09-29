@@ -3,6 +3,10 @@
 > A Vue.js project
 
 ## 技术栈
+1. Node.js v6.9.4
+2. MongoDB v3.4.1
+3. Vue.js v2.2.1
+
   vue(vue+vuex+vue-router+vue-resource)
   express
   mongoose
