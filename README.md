@@ -3,34 +3,30 @@
 > A Vue.js project
 
 ## 技术栈
-1. Node.js v6.9.4
-2. MongoDB v3.4.1
-3. Vue.js v2.2.1
-
-  vue(vue+vuex+vue-router+vue-resource)
-  express
-  mongoose
+    vue(vue+vuex+vue-router+vue-resource)
+    express
+    mongoose
 
 ## 简介
   项目是为了内部使用，mongoose是现学现卖，后面发现api功能丰富，挺好用。
 
 ## 功能
-1、登录注册
-2、发布文章
-3、删除、修改文章
-4、查询（n个关键字查询+tag查询）
-5、tag添加、删除
+    1、登录注册
+    2、发布文章
+    3、删除、修改文章
+    4、查询（n个关键字查询+tag查询）
+    5、tag添加、删除
   
 ## 项目启动：
-1、需要安装mongdb，并启动mongdb的服务
-2、进入项目  cd server下  执行node index；启动项目的server，提示Mongo connection successed，就可以正式使用
-3、在项目下执行 npm run start可看
+    1、需要安装mongdb，并启动mongdb的服务
+    2、进入项目  cd server下  执行node index；启动项目的server，提示Mongo connection successed，就可以正式使用
+    3、在项目下执行 npm run start可看
   
 ##  结构简介
-1、直接使用vue-cli创建
-2、server文件夹下为接口服务相关代码
-3、src下为项目源代码，包含路由、组件和store文件夹。
-4、使用localStorge数据持久
+    1、直接使用vue-cli创建
+    2、server文件夹下为接口服务相关代码
+    3、src下为项目源代码，包含路由、组件和store文件夹。
+    4、使用localStorge数据持久
 
 ## Build Setup
 
