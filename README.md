@@ -18,8 +18,8 @@
     5、tag添加、删除
   
 ## 项目启动：
-    1、需要安装mongdb
-    2、server下  执行node index
+    1、需要安装mongdb，启动mongdb服务：mongod
+    2、server下  执行node index
     3、在项目下执行 npm run start可看
   
 ##  结构简介
